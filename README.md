@@ -19,7 +19,6 @@
 - --extra-index-url https://download.pytorch.org/whl/cu130
 - torch==2.9.0+cu130
 - torchvision==0.24.0+cu130
-- torchaudio==2.9.0
 - scikit-learn
 - numpy
 - joblib
@@ -41,6 +40,7 @@
 **Script Developer:** Gabriel Mihai Sandu  
 
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+
 
 
 
