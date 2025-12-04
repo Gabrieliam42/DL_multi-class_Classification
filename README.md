@@ -1,6 +1,7 @@
 ## Deep Learning Classification
 * using softmax with cross-entropy setup (multi-class classification).
 * binary classification using a deep CNN with logistic (sigmoid) output 
+* classification with logistic regression
 
 
 
@@ -22,6 +23,7 @@
 - scikit-learn
 - numpy
 - joblib
+- pillow
 
 
 
@@ -40,6 +42,7 @@
 **Script Developer:** Gabriel Mihai Sandu  
 
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+
 
 
 
