@@ -1,3 +1,6 @@
+# Script Developer: Gabriel Mihai Sandu
+# GitHub Profile: https://github.com/Gabrieliam42
+
 import os
 import time
 import math
@@ -198,3 +201,6 @@ def main():
 
 if __name__=="__main__":
     main()
+
+# Script Developer: Gabriel Mihai Sandu
+# GitHub Profile: https://github.com/Gabrieliam42
