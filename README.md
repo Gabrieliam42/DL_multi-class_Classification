@@ -25,6 +25,9 @@
 - numpy
 - joblib
 - pillow
+- tqdm
+- pandas
+- requests
 
 
 
@@ -43,6 +46,7 @@
 **Script Developer:** Gabriel Mihai Sandu  
 
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+
 
 
 
